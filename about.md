@@ -2,14 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+CodeMind is a space for interesting talk on human behavior and their interactions with technology. You will learn about how classic psychology fits into our daily lives, with practical examples via observations on the news, in the workplace, and in general. Opinions may be controversial - to some.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### About the author
+The CodeMind author considers himself an Armchair Developer. A cross between an enterprise software engineer by day and an armchair psychologist by night.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+coming soon.

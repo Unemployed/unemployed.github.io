@@ -9,7 +9,7 @@ name: CodeMind
 description: Armchair Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/codemind-logo.png
+avatar: http://codemind.me/images/codemind-logo.png
 
 #
 # Flags below are optional
